@@ -1,6 +1,6 @@
 # SPFx-uifabric-themes - Toolkit
 
-This toolkit improves your development workflow. It enables you to webparts create enhanced web part always matching the theme currently applied on the page.
+This toolkit improves your development workflow. It enables you to create enhanced web parts that always match the theme currently applied on the page.
 
 **Current Version:** 0.8.0 - Teal;
 
